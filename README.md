@@ -35,7 +35,7 @@ ASVspoof2019 dataset has been chosen for Fake Speech Detection task. This datase
 
 The dataset used was ASVspoof 2019 dataset and tfrecord dataset. The links for the same have been provided below:
 
-ASVspoof 2019 dataset 
+ASVspoof 2019 dataset   
 https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset
 
 ASVspoof 2019 tfrecord dataset  
