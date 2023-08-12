@@ -1,5 +1,5 @@
 
-# Audio Deepfake Detection using TensorFlow
+# Audio Deepfake Detection using Spectrograms
 
 This python based model built using TensorFlow is predominantly made for the classification of synthetic audio. In this model,  we will feed Mel-Spectrogram feature to our model as input. We can simply consider Mel-Spectrogram as 2D image which x-axis represents time and y-axis represents frequency information. Hence, we can consider this problem as an Image Classification Problem. 
 
